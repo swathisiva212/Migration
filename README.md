@@ -6,6 +6,7 @@ To move the files between virtual machine. You can move files between virtual ma
 • You can copy files using network utilities as you would between physical computers on your network.
 
 To do this between two virtual machine: 
+
 • Both virtual machines must be configured to allow access to your network. 
 
 • Any of the networking methods (host-only, bridged and NAT) are appropriate. 
